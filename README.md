@@ -1,6 +1,7 @@
 # daily_verse
 
-A new Flutter application which show a bible verse and change it per minute and send a notification contains the new changed verse.
+A Flutter application which show a bible verse.
+The verse had benn changed per minute. The application sends a notification contains the new changed verse.
 you can control sending notifications.
 
 ## Getting Started
